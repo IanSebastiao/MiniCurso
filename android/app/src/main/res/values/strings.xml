@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">senacfilmes</string>
+    <string name="title_activity_main">senacfilmes</string>
+    <string name="package_name">io.ionic.senacfilmes</string>
+    <string name="custom_url_scheme">io.ionic.senacfilmes</string>
+</resources>
